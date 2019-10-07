@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1c17969-fa9e-4319-904f-fec2997a4d4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/AutomationReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Report/AutomationReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/page/CalendarPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/page/CalendarPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/createAnEvent/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/createAnEvent/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/createAnEvent/CreateBasicEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/createAnEvent/CreateBasicEvent.class" afterDir="false" />
-    </list>
+    <list default="true" id="b1c17969-fa9e-4319-904f-fec2997a4d4b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +167,7 @@
       <workItem from="1570076367464" duration="45319000" />
       <workItem from="1570416102040" duration="948000" />
       <workItem from="1570417257761" duration="5116000" />
-      <workItem from="1570427398647" duration="447000" />
+      <workItem from="1570427398647" duration="1050000" />
     </task>
     <servers />
   </component>
