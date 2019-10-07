@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1c17969-fa9e-4319-904f-fec2997a4d4b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rg6PCEJqV1pGUOITOT9SZucbCv" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/data" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\data" />
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\Data" />
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\Config" />
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources" />
+      <recent name="D:\TestingFW\ScreeningTesting" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="helper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\Config" />
+      <recent name="D:\TestingFW\ScreeningTesting" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.CreateBasicEvent">
+    <configuration name="CreateBasicEvent" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ScreeningTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="createAnEvent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="createAnEvent" />
+      <option name="MAIN_CLASS_NAME" value="createAnEvent.CreateBasicEvent" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateBasicEvent.createBasicEvent (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ScreeningTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="createAnEvent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="createAnEvent" />
+      <option name="MAIN_CLASS_NAME" value="createAnEvent.CreateBasicEvent" />
+      <option name="METHOD_NAME" value="createBasicEvent" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateBasicEvent.createBasicEvent (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ScreeningTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="createAnEvent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="createAnEvent" />
+      <option name="MAIN_CLASS_NAME" value="createAnEvent.CreateBasicEvent" />
+      <option name="METHOD_NAME" value="createBasicEvent" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateBasicEvent.createBasicEvent" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ScreeningTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="createAnEvent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="createAnEvent" />
+      <option name="MAIN_CLASS_NAME" value="createAnEvent.CreateBasicEvent" />
+      <option name="METHOD_NAME" value="createBasicEvent" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateBasicEvent.createOptionEvent" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ScreeningTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="createAnEvent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="createAnEvent" />
+      <option name="MAIN_CLASS_NAME" value="createAnEvent.CreateBasicEvent" />
+      <option name="METHOD_NAME" value="createOptionEvent" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CreateBasicEvent" />
+        <item itemvalue="TestNG.CreateBasicEvent.createOptionEvent" />
+        <item itemvalue="TestNG.CreateBasicEvent.createBasicEvent" />
+        <item itemvalue="TestNG.CreateBasicEvent.createBasicEvent (2)" />
+        <item itemvalue="TestNG.CreateBasicEvent.createBasicEvent (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1c17969-fa9e-4319-904f-fec2997a4d4b" name="Default Changelist" comment="" />
+      <created>1570076365064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570076365064</updated>
+      <workItem from="1570076367464" duration="45319000" />
+      <workItem from="1570416102040" duration="948000" />
+      <workItem from="1570417257761" duration="5116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="calendarPage.getTimeEvent()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

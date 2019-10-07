@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">-->
+<!DOCTYPE log4j:configuration SYSTEM "http://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd">
+    <log4j:configuration debug="false">
+<!--    <log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/"-->
+<!--                     debug="false">-->
+    <appender name="fileAppender" class="org.apache.log4j.FileAppender">
+        <param name="Threshold" value="INFO"/>
+        <param name="Encoding" value="UTF-8"/>
+        <param name="File" value="Log/Summary_20191007_114216_1570423336596.log"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d %-5p [%c{1}] %m %n"/>
+        </layout>
+    </appender>
+
+    <appender name="console" class="org.apache.log4j.ConsoleAppender">
+        <param name="Target" value="System.out"/>
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%-5p %c{1} - %m%n"/>
+        </layout>
+        <filter class="org.apache.log4j.varia.LevelMatchFilter">
+            <param name="LevelToMatch" value="INFO"/>
+            <param name="AcceptOnMatch" value="true"/>
+        </filter>
+        <filter class="org.apache.log4j.varia.DenyAllFilter"/>
+    </appender>
+
+    <appender name="file" class="org.apache.log4j.RollingFileAppender">
+        <param name="Append" value="true"/>
+        <param name="ImmediateFlush" value="true"/>
+        <param name="MaxFileSize" value="10MB"/>
+        <param name="MaxBackupIndex" value="5"/>
+
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="%d %d{Z} [%t] %-5p (%F:%L) - %m%n"/>
+        </layout>
+    </appender>
+
+    <root>
+
+        <level value="INFO"/>
+
+        <appender-ref ref="fileAppender"/>
+        <appender-ref ref="console"/>
+        <appender-ref ref="file"/>
+    </root>
+
+</log4j:configuration>

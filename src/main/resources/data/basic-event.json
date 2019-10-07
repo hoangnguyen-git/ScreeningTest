@@ -1,0 +1,12 @@
+[
+  {
+    "basicEvent": {
+      "title": "Basic Event",
+      "startTime": "3:30pm",
+      "endTime": "4:30pm",
+      "guest": "autoNetcSanityTest1@gmail.com",
+      "location": "Ho Chi Minh City, Vietnam",
+      "description": "This is basic event"
+    }
+  }
+]

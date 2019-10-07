@@ -1,0 +1,12 @@
+[
+  {
+    "optionEvent": {
+      "title": "Option Event",
+      "startTime": "10:30pm",
+      "endTime": "11:45pm",
+      "guest": "autoNetcSanityTest1@gmail.com",
+      "location": "Ho Chi Minh City, Vietnam",
+      "description": "This is option event"
+    }
+  }
+]
