@@ -1,0 +1,87 @@
+2019-10-07 12:56:18,350 INFO  [Log] Start test with Chrome Browser: 
+2019-10-07 12:56:18,350 INFO  [Log] Set English as language of Chrome Browser 
+2019-10-07 12:56:23,493 INFO  [Log] Browser version: 77.0.3865.90 on XP 
+2019-10-07 12:56:25,558 INFO  [Log] Go to calendar page 
+2019-10-07 12:56:25,558 INFO  [Log] Click on drop down list 
+2019-10-07 12:56:25,558 INFO  [Log] Click by JavaScript 
+2019-10-07 12:56:25,573 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> class name: TquXA] 
+2019-10-07 12:56:25,683 INFO  [Log] Click on English language 
+2019-10-07 12:56:25,683 INFO  [Log] Click by JavaScript 
+2019-10-07 12:56:25,696 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: (//span[contains(text(),'English (United Kingdom)')])[last()]] 
+2019-10-07 12:56:26,317 INFO  [Log] Wait for changing language on the page 
+2019-10-07 12:56:26,317 INFO  [Log] Sleep in seconds: 2.0 
+2019-10-07 12:56:28,317 INFO  [Log] Enter email:autoajctesting@gmail.com 
+2019-10-07 12:56:28,332 INFO  [Log] SendKeys: autoajctesting@gmail.com in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> id: identifierId] 
+2019-10-07 12:56:28,339 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> id: identifierId] 
+2019-10-07 12:56:28,697 INFO  [Log] Click on Next button 
+2019-10-07 12:56:28,707 INFO  [Log] Click on element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[text()='Next']] 
+2019-10-07 12:56:28,715 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[text()='Next']] 
+2019-10-07 12:56:28,938 INFO  [Log] Enter password:Testing!123 
+2019-10-07 12:56:28,950 INFO  [Log] SendKeys: Testing!123 in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[type='password']] 
+2019-10-07 12:56:28,958 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[type='password']] 
+2019-10-07 12:56:30,268 INFO  [Log] Click on Next button 
+2019-10-07 12:56:30,276 INFO  [Log] Click on element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[text()='Next']] 
+2019-10-07 12:56:30,282 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[text()='Next']] 
+2019-10-07 12:56:30,492 INFO  [Log] Wait for page is loaded successfully 
+2019-10-07 12:56:30,510 INFO  [Log] WaitForElementVisible :Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Create']' 
+2019-10-07 12:56:35,187 INFO  [Log] Click on Create button 
+2019-10-07 12:56:35,187 INFO  [Log] Click on Create button 
+2019-10-07 12:56:35,198 INFO  [Log] Click on element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //div[text()='Create']] 
+2019-10-07 12:56:35,206 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //div[text()='Create']] 
+2019-10-07 12:56:35,448 INFO  [Log] Click on More option button 
+2019-10-07 12:56:35,448 INFO  [Log] Click on More option button 
+2019-10-07 12:56:35,617 INFO  [Log] Click on element: Proxy element for: DefaultElementLocator 'By.xpath: //span[text() = 'More options']' 
+2019-10-07 12:56:35,652 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[text() = 'More options']] 
+2019-10-07 12:56:35,986 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[text() = 'Save']] 
+2019-10-07 12:56:36,159 INFO  [Log] Enter the event information 
+2019-10-07 12:56:36,159 INFO  [Log] Enter option event title 
+2019-10-07 12:56:36,175 INFO  [Log] SendKeys: Option Event - DSYX in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Title']] 
+2019-10-07 12:56:36,184 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Title']] 
+2019-10-07 12:56:36,647 INFO  [Log] Enter option start date 
+2019-10-07 12:56:36,659 INFO  [Log] SendKeys: 10/07/2019 in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Start date']] 
+2019-10-07 12:56:36,802 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Start date']] 
+2019-10-07 12:56:37,125 INFO  [Log] Enter option start time 
+2019-10-07 12:56:37,142 INFO  [Log] SendKeys: 10:30pm in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Start time']] 
+2019-10-07 12:56:37,281 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Start time']] 
+2019-10-07 12:56:37,518 INFO  [Log] Enter option end time 
+2019-10-07 12:56:37,530 INFO  [Log] SendKeys: 11:45pm in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'End time']] 
+2019-10-07 12:56:37,677 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'End time']] 
+2019-10-07 12:56:37,911 INFO  [Log] Enter option start date 
+2019-10-07 12:56:37,924 INFO  [Log] SendKeys: 10/07/2019 in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'End date']] 
+2019-10-07 12:56:38,073 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'End date']] 
+2019-10-07 12:56:38,349 INFO  [Log] Enter guest 
+2019-10-07 12:56:38,358 INFO  [Log] SendKeys: autoNetcSanityTest1@gmail.com in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Guests']] 
+2019-10-07 12:56:38,367 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Guests']] 
+2019-10-07 12:56:39,017 INFO  [Log] Enter location 
+2019-10-07 12:56:39,030 INFO  [Log] SendKeys: Ho Chi Minh City, Vietnam in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Location']] 
+2019-10-07 12:56:39,157 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: input[aria-label = 'Location']] 
+2019-10-07 12:56:39,649 INFO  [Log] Enter description 
+2019-10-07 12:56:39,667 INFO  [Log] SendKeys: This is option event in element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //div[@aria-label = 'Description']] 
+2019-10-07 12:56:39,676 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //div[@aria-label = 'Description']] 
+2019-10-07 12:56:40,095 INFO  [Log] Click on Save button 
+2019-10-07 12:56:40,095 INFO  [Log] Click on Save button 
+2019-10-07 12:56:40,104 INFO  [Log] Click on element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[text() = 'Save']] 
+2019-10-07 12:56:40,120 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[text() = 'Save']] 
+2019-10-07 12:56:40,342 INFO  [Log] WaitForElementVisible :[[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> class name: FfrJD] 
+2019-10-07 12:56:40,406 INFO  [Log] Click on element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[contains(text(),'t send')]] 
+2019-10-07 12:56:40,414 INFO  [Log] WaitForElementClickable: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> xpath: //span[contains(text(),'t send')]] 
+2019-10-07 12:56:40,598 INFO  [Log] Verify Event is created successfully 
+2019-10-07 12:56:40,598 INFO  [Log] Check event is created 
+2019-10-07 12:56:40,616 INFO  [Log] Sleep in seconds: 0.7 
+2019-10-07 12:56:41,324 INFO  [Log] Found element :XPATH //span[text() = 'Option Event - DSYX'] 
+2019-10-07 12:56:41,324 INFO  [Log] Check the visible element in miliseconds: 726 
+2019-10-07 12:56:41,336 INFO  [Log] Get text the element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> class name: rSoRzd] 
+2019-10-07 12:56:41,344 INFO  [Log] WaitForElementVisible :[[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> class name: rSoRzd] 
+2019-10-07 12:56:41,393 INFO  [Log] Get text the element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: div.MmhHI.KSxb4d] 
+2019-10-07 12:56:41,403 INFO  [Log] WaitForElementVisible :[[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: div.MmhHI.KSxb4d] 
+2019-10-07 12:56:41,451 INFO  [Log] Get text the element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: div.Jmftzc.gVNoLb.EiZ8Dd] 
+2019-10-07 12:56:41,459 INFO  [Log] WaitForElementVisible :[[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: div.Jmftzc.gVNoLb.EiZ8Dd] 
+2019-10-07 12:56:41,505 INFO  [Log] Get text the element: [[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: div.Jmftzc.gVNoLb.EiZ8Dd] 
+2019-10-07 12:56:41,512 INFO  [Log] WaitForElementVisible :[[ChromeDriver: chrome on XP (d1c3b2150feff5ac21dae786578e37c1)] -> css selector: div.Jmftzc.gVNoLb.EiZ8Dd] 
+2019-10-07 12:56:50,469 INFO  [Log] Capture full screenshot into file: 20191007125641.jpg 
+2019-10-07 12:56:50,470 INFO  [Log] Result: FAILED 
+2019-10-07 12:56:50,472 INFO  [Log] End Test Case:  
+2019-10-07 12:56:51,291 INFO  [Log] ================================END TEST CASE======================================= 
+2019-10-07 12:56:51,292 INFO  [Log] End test class Name: createAnEvent.CreateBasicEvent 
+2019-10-07 12:56:51,293 INFO  [Log] Done Testing 
+2019-10-07 12:56:51,295 INFO  [Log] End test suite name: Create an event 

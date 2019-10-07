@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1c17969-fa9e-4319-904f-fec2997a4d4b" name="Default Changelist" comment="" />
+    <list default="true" id="b1c17969-fa9e-4319-904f-fec2997a4d4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/AutomationReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Report/AutomationReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/page/CalendarPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/page/CalendarPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/createAnEvent/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/createAnEvent/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/createAnEvent/CreateBasicEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/createAnEvent/CreateBasicEvent.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,26 +36,28 @@
     </option>
   </component>
   <component name="ProjectId" id="1Rg6PCEJqV1pGUOITOT9SZucbCv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\data" />
-      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\Data" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\Config" />
-      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources" />
       <recent name="D:\TestingFW\ScreeningTesting" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="helper" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\Config" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\TestingFW\ScreeningTesting" />
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\data" />
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\Data" />
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources\Config" />
+      <recent name="D:\TestingFW\ScreeningTesting\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CreateBasicEvent">
+  <component name="RunManager" selected="TestNG.D:/TestingFW/ScreeningTesting/testng.xml">
     <configuration name="CreateBasicEvent" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ScreeningTesting" />
       <extension name="coverage">
@@ -69,24 +84,6 @@
       <option name="PACKAGE_NAME" value="createAnEvent" />
       <option name="MAIN_CLASS_NAME" value="createAnEvent.CreateBasicEvent" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CreateBasicEvent.createBasicEvent (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ScreeningTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="createAnEvent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="createAnEvent" />
-      <option name="MAIN_CLASS_NAME" value="createAnEvent.CreateBasicEvent" />
-      <option name="METHOD_NAME" value="createBasicEvent" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -147,13 +144,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D:/TestingFW/ScreeningTesting/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ScreeningTesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/TestingFW/ScreeningTesting/testng.xml" />
         <item itemvalue="TestNG.CreateBasicEvent" />
         <item itemvalue="TestNG.CreateBasicEvent.createOptionEvent" />
         <item itemvalue="TestNG.CreateBasicEvent.createBasicEvent" />
         <item itemvalue="TestNG.CreateBasicEvent.createBasicEvent (2)" />
-        <item itemvalue="TestNG.CreateBasicEvent.createBasicEvent (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -170,11 +177,23 @@
       <workItem from="1570076367464" duration="45319000" />
       <workItem from="1570416102040" duration="948000" />
       <workItem from="1570417257761" duration="5116000" />
+      <workItem from="1570427398647" duration="447000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

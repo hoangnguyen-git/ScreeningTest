@@ -8,7 +8,7 @@
     <appender name="fileAppender" class="org.apache.log4j.FileAppender">
         <param name="Threshold" value="INFO"/>
         <param name="Encoding" value="UTF-8"/>
-        <param name="File" value="Log/Summary_20191007_114216_1570423336596.log"/>
+        <param name="File" value="Log/Summary_20191007_125618_1570427778343.log"/>
         <layout class="org.apache.log4j.PatternLayout">
             <param name="ConversionPattern" value="%d %-5p [%c{1}] %m %n"/>
         </layout>
