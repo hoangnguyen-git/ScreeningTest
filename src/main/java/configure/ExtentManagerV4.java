@@ -23,14 +23,14 @@ public class ExtentManagerV4 {
     htmlReporter = new ExtentHtmlReporter(PathConstant.reportPath + "AutomationReport.html");
     extentReport.attachReporter(htmlReporter);
 
-    htmlReporter.config().setDocumentTitle("VidOps API Automation Report");
-    htmlReporter.config().setReportName("VidOps Report");
+    htmlReporter.config().setDocumentTitle("Hoang Nguyen Automation Report");
+    htmlReporter.config().setReportName("Hoang Nguyen Report");
     htmlReporter.config().setTheme(Theme.DARK);
     htmlReporter.config().setEncoding("UTF-8");
 
     // General information related to application
-    extentReport.setSystemInfo("Application Name", "VidOps API Report");
-    extentReport.setSystemInfo("User Name", "Xenia Tech Development Team");
+    extentReport.setSystemInfo("Application Name", "Hoang Nguyen Report");
+    extentReport.setSystemInfo("User Name", "Hoang Company Development Team");
     extentReport.setSystemInfo("Environment", "SIT");
   }
 }
