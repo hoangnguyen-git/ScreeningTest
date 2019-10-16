@@ -1,3 +1,4 @@
 log/*.log
 report/AutomationReport.html
 screenShot/*.jpg
+.idea/
